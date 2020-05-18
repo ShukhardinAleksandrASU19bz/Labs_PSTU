@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 sem lab 13", "2 sem lab 13.vcxproj", "{D38C88EC-136B-4697-9013-14CF988F5C25}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 sem lab 13 zadacha 2", "..\2 sem lab 13 zadacha 2\2 sem lab 13 zadacha 2.vcxproj", "{8CD70A60-AB5C-43EC-9394-8D55DE063CE1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 sem lab 13 zadacha 2", "..\13 Стандартные обобщенные алгоритмы библиотеки STL zadacha 2\2 sem lab 13 zadacha 2.vcxproj", "{8CD70A60-AB5C-43EC-9394-8D55DE063CE1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 sem lab 13 zadacha 3", "..\2 sem lab 13 zadacha 3\2 sem lab 13 zadacha 3.vcxproj", "{0E960257-2E41-4BBA-A34C-8C86DF4D62B5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 sem lab 13 zadacha 3", "..\13 Стандартные обобщенные алгоритмы библиотеки STL zadacha 3\2 sem lab 13 zadacha 3.vcxproj", "{0E960257-2E41-4BBA-A34C-8C86DF4D62B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
