@@ -1,0 +1,6 @@
+﻿  lab 12 main.cpp
+C:\Users\SAVWUB\source\repos\2 sem lab 12\lab 12 main.cpp(40,13): warning C4244:  аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\SAVWUB\source\repos\2 sem lab 12\lab 12 main.cpp(58,13): warning C4244:  аргумент: преобразование "double" в "const int", возможна потеря данных
+C:\Users\SAVWUB\source\repos\2 sem lab 12\lab 12 main.cpp(64,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\SAVWUB\source\repos\2 sem lab 12\lab 12 main.cpp(66,9): warning C4101:  mm: неиспользованная локальная переменная
+  2 sem lab 12.vcxproj -> C:\Users\SAVWUB\source\repos\2 sem lab 12\Debug\2 sem lab 12.exe

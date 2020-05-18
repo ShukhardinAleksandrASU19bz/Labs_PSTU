@@ -1,0 +1,4 @@
+﻿  zadacha 4.cpp
+C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 4\zadacha 4.cpp(38,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 4\zadacha 4.cpp(163,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  2 sem lab 11 zadacha 4.vcxproj -> C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Debug\2 sem lab 11 zadacha 4.exe

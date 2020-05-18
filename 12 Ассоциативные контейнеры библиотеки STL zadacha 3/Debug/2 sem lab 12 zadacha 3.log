@@ -1,0 +1,23 @@
+﻿  zadacha 3 main.cpp
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\zadacha 3 main.cpp(6,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(56,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(55): message :  во время компиляции функции-члена класс шаблон "void Container<Time>::Print(void)"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\zadacha 3 main.cpp(10): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::Print(void)"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\zadacha 3 main.cpp(9): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Container<Time>"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(138,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(135): message :  во время компиляции функции-члена класс шаблон "void Container<Time>::Dobavlenie(void)"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\zadacha 3 main.cpp(25): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Container<Time>::Dobavlenie(void)"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(66,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(63): message :  во время компиляции функции-члена класс шаблон "T Container<T>::Srednee(void)"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(63): message :         with
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(63): message :         [
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(63): message :             T=Time
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(63): message :         ]
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(136): message :  выполняется компиляция ссылки на экземпляр шаблон функции "T Container<T>::Srednee(void)"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(136): message :         with
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(136): message :         [
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(136): message :             T=Time
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(136): message :         ]
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\Container.h(43): message :  во время компиляции функции-члена класс шаблон "Container<Time>::Container(int)"
+C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 3\zadacha 3 main.cpp(9): message :  выполняется компиляция ссылки на экземпляр шаблон функции "Container<Time>::Container(int)"
+  2 sem lab 12 zadacha 3.vcxproj -> C:\Users\SAVWUB\source\repos\2 sem lab 12\Debug\2 sem lab 12 zadacha 3.exe

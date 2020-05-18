@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(23,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(32,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(48,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(67,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(78,10): warning C4244:  аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(79,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(86,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Source.cpp(93,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  2 sem lab 11 1.vcxproj -> C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Debug\2 sem lab 11 1.exe
