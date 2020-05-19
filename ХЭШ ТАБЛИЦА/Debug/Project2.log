@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\SAVWUB\source\repos\Project2\Source.cpp(1,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\SAVWUB\source\repos\Project2\Person.h(31,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\Project2\HashTable.h(45,25): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\Project2\HashTable.h(91,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\Project2\HashTable.h(159,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\Project2\Source.cpp(27,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Project2.vcxproj -> C:\Users\SAVWUB\source\repos\Project2\Debug\Project2.exe
