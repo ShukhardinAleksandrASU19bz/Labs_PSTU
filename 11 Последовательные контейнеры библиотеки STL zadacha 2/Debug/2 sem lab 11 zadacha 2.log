@@ -6,6 +6,8 @@ C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные �
 C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 2\Zadacha 2 main.cpp(70,20): warning C4018:  <: несоответствие типов со знаком и без знака
 C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 2\Zadacha 2 main.cpp(81,20): warning C4018:  <: несоответствие типов со знаком и без знака
 C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 2\Zadacha 2 main.cpp(89,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Компиляция...
   Создание кода...
 C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 2\Zadacha 2 main.cpp(96,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
   2 sem lab 11 zadacha 2.vcxproj -> C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 1\Debug\2 sem lab 11 zadacha 2.exe
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 2\Zadacha 2 main.cpp(38): warning C26444: Avoid unnamed objects with custom construction and destruction (es.84).

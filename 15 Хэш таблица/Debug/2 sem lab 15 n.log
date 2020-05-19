@@ -1,0 +1,12 @@
+﻿  Hash.cpp
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\Person.h(31,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\Hash.h(48,25): warning C4018:  <: несоответствие типов со знаком и без знака
+  lab15.cpp
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\Hash.h(90,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\lab15.cpp(1,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\Person.h(31,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\Hash.h(48,25): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\Hash.h(90,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\SAVWUB\source\repos\2 sem lab 15 n\lab15.cpp(31,15): warning C4018:  <: несоответствие типов со знаком и без знака
+  2 sem lab 15 n.vcxproj -> C:\Users\SAVWUB\source\repos\2 sem lab 15 n\Debug\2 sem lab 15 n.exe
