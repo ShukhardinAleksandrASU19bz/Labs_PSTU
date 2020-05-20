@@ -1,14 +1,20 @@
 #include "Person.h"
 #include <string>
+#include <cstdlib>
+#include <ctime>
 
- 
+
+using namespace std;
+
+//srand(time(NULL));
+
 //конструктор без параметров
 Person::Person(void)
 {
 	for (int i = 0; i < rand() % 10; i++)
-	name += rand() % 10 + 's';
+		name += rand() % 10 + 'a';
 	for (int i = 0; i < rand() % 10; i++)
-	group += rand() % 10 + 's';
+		group += rand() % 10 + 'a';
 	raiting = raiting = rand() % 100;
 	/*for (int i = 0; i < n; i++)
 {
@@ -34,16 +40,22 @@ Person::Person(const Person& Person)
 	raiting = Person.raiting;
 }
 //модификаторы
-void Person::Set_raiting(int C)
+void Person::Set_raiting()
 {
+	int C;
+	cin >> C;
 	raiting = C;
 }
-void Person::Set_name(string M)
+void Person::Set_name()
 {
+	string M;
+	cin >> M;
 	name = M;
 }
-void Person::Set_group(string M)
+void Person::Set_group()
 {
+	string M;
+	cin >> M;
 	group = M;
 }
 //перегрузка операции присваивания
@@ -78,5 +90,5 @@ istream& operator>>(istream& in, Person& t)
 //перегрузка глобальной функции-операции вывода
 ostream& operator<<(ostream& out, const Person& t)
 {
-	return (out << t.name << " " << t.group <<" " << t.raiting << " ");
+	return (out << t.name << " " << t.group << " " << t.raiting << " ");
 }
