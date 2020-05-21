@@ -12,13 +12,13 @@ int main()
 	cin >> a;
 	cin >> b;
 	++a;
-	cout << a << endl;
+	cout <<"увеличили а на 1: "<< a << endl;
 	c=(a++)+b;
 	cout << "a= " << a << endl;
 	cout << "b= " << b << endl;
 	cout << "c= " << c << endl;
-	if (a == b) { cout << "равно" << endl; }
-	else cout << "не равно" << endl;
+	if (a == b) { cout << "a = b" << endl; }
+	else cout << "a !=b" << endl;
 	
 
 }

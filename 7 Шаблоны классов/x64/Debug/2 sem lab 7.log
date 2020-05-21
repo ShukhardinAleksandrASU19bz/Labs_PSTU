@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Time.cpp
+  Создание кода...
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\7 Шаблоны классов\Source.cpp(7,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\7 Шаблоны классов\Source.cpp(7,1): warning C4326: C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\7 Шаблоны классов\Vector.h(72) : warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  2 sem lab 7.vcxproj -> C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\7 Шаблоны классов\x64\Debug\2 sem lab 7.exe

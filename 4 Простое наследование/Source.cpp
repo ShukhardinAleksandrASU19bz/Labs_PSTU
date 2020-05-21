@@ -34,5 +34,5 @@ int main()
 	f3(p2);
 	p = f4();
 	cout << p;
-	return 666;
+	return 0;
 }

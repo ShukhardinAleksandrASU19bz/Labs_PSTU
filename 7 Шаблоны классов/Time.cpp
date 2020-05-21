@@ -40,11 +40,3 @@ Time Time::operator+(Time k)
 	p.sec = (temp1 + temp2) % 60;
 	return p;
 }
-/*Time Time::operator+(Time k) 
-{
-	int t = min * 60 + sec; 
-	int kt = k.min * 60 + k.sec; 
-	t += kt;
-	Time temp(t / 60, t % 60); 
-	return temp;
-}*/

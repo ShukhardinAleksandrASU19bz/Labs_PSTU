@@ -17,6 +17,14 @@ void Dialog::GetEvent(TEvent& event)
 	string s;
 	string param;
 	char code;
+	cout << " ";
+	cout << "mX - создать группу из X элементов" << endl;
+	cout << "+ - добавить объект в группу" << endl;
+	cout << "- - удалить объект из группы" << endl;
+	cout << "s - просмотр группы" << endl;
+	cout << "? - информация об элементе группы" << endl;
+	cout << "q - конец работы" << endl;
+	cout << "\n";
 	cout << '>';
 	cin >> s; code = s[0];//первый символ команды
 	if (OpInt.find(code) >= 0)//является ли символ кодом операции
@@ -29,8 +37,7 @@ void Dialog::GetEvent(TEvent& event)
 		case '-': event.command = cmDel; break;//удалить объект из группы
 		case 's': event.command = cmShow; break;//просмотр группы
 		case'q': event.command = cmQuit; break; //конец работы
-		case '/': event.command = cmGet; break;
-		case '?': event.command = cmGetE; break;
+		case '?': event.command = cmGetE; break;//информация об элементе группы
 		}
 
 		//выделяем параметры команды, если они есть

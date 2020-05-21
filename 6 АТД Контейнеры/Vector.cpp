@@ -74,13 +74,3 @@ istream& operator>>(istream& in, Vector& a)
 		in >> a.data[i];
 	return in;
 }
-
-/*int Vector::count() {
-	int count = 0;
-	Text_iterator q = begin();
-	while (q != end()) {
-		count++;
-		q++;
-	}
-	return count;
-}*/

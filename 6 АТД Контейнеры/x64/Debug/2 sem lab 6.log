@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Vector.cpp
+  Создание кода...
+  C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\6 АТД Контейнеры\Vector.cpp(50) : warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  2 sem lab 6.vcxproj -> C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\6 АТД Контейнеры\x64\Debug\2 sem lab 6.exe

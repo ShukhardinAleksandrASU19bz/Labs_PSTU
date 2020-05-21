@@ -10,7 +10,7 @@ Student::Student()
 	FIO = "";
 	group = "";
 	ball = 0;
-	cout << "Конструктор без параметров для объекта" << this << endl;
+	cout << "Конструктор без параметров для объекта " << this << endl;
 }
 //конструктор с параметрами
 Student::Student(string N, string K,float S)
@@ -18,7 +18,7 @@ Student::Student(string N, string K,float S)
 	FIO = N;
 	group = K;
 	ball = S;
-	cout << "Конструктор c параметрами для объекта" << this << endl;
+	cout << "Конструктор c параметрами для объекта " << this << endl;
 }
 //конструктор копирования
 Student::Student(const Student& t)
@@ -26,12 +26,12 @@ Student::Student(const Student& t)
 	FIO = t.FIO;
 	group = t.group;
 	ball = t.ball;
-	cout << "Конструктор копирования для объекта" << this << endl;
+	cout << "Конструктор копирования для объекта " << this << endl;
 }
 //деструктор
 Student::~Student()
 {
-	cout << "Деструктор для объекта" << this << endl;
+	cout << "Деструктор для объекта " << this << endl;
 }
 //селекторы
 string Student::get_FIO()

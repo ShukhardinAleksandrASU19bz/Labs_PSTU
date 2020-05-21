@@ -71,16 +71,7 @@ int& Vector::operator [](int i)
 	if (i >= size) throw error("index>size");
 	return beg[i];
 }
-/*
-Vector Vector::operator +(int a)
 
-{
-	if (size + 1 == MAX_SIZE) throw 4;
-	Vector temp(size + 1, beg);
-	temp.beg[size] = a;
-	return temp;
-}
-*/
 Vector Vector::operator --()
 {
 	if (size == 0) throw error("Vector is empty");
@@ -104,14 +95,6 @@ Vector Vector::operator-(int k)
 	//если вектор пустой, то удалить элемент нельзя и генерируется исключение
 	if (size == 0) throw error("Vector is empty");
 	if (size <= k) throw error("Net stol'ko elementov");//если в векторе меньше элементов чем удаляемых
-	/*
-	{
-		size = 0;
-		delete[]beg;
-		beg = 0;
-		return *this;
-	};
-	*/
 
 	Vector temp(size, beg);
 	for (int i = 0; i < k; i++)

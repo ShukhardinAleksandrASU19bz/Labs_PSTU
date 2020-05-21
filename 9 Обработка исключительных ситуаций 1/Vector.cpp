@@ -72,17 +72,6 @@ int& Vector::operator [](int i)
 	return beg[i];
 
 }
-/*Vector Vector::operator +(int a)
-{
-	//если при добавлении элемента размер вектора станет больше максимального,
-	//то генерируется исключение
-	if (size + 1 == MAX_SIZE) throw 4;
-	Vector temp(size + 1, beg);
-	temp.beg[size] = a;
-	return temp;
-}
-*/
-//
 Vector Vector::operator+(const int k)//+k
 {
 	Vector temp(size);

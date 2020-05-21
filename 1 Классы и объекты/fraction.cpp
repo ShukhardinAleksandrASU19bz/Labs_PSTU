@@ -38,7 +38,6 @@ int fraction::Ipart()
 		if (first >= second)
 		{
 			ipart = (first / second);
-			//first %= second;
 		}
 		else ipart = 0;
 	}

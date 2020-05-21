@@ -32,6 +32,7 @@ int main() {
 	t2.show();
 	//конструктор копирования
 	Student t3 = t2;
+	t3.show();
 	t3.set_FIO("PETR");
 	t3.set_group("RIS");
 	t3.set_ball(4999.9);

@@ -1,0 +1,3 @@
+﻿  fraction.cpp
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\1 Классы и объекты\fraction.cpp(40,19): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  2 sem 1 lab.vcxproj -> C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\1 Классы и объекты\x64\Debug\2 sem 1 lab.exe
