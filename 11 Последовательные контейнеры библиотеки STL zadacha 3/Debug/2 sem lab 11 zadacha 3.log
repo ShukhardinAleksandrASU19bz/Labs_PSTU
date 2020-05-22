@@ -1,43 +1,45 @@
-﻿  zadacha 3 main.cpp
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(6,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(54,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(53): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::Print(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(8): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Print(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(7): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(62,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(60): message :  во время компиляции функции-члена класс шаблон "T Vector<T>::Srednee(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(60): message :         with
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(60): message :         [
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(60): message :             T=Time
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(60): message :         ]
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(17): message :  выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Srednee(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(17): message :         with
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(17): message :         [
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(17): message :             T=Time
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(17): message :         ]
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(94,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(91): message :  во время компиляции функции-члена класс шаблон "T Vector<T>::Maxi(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(91): message :         with
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(91): message :         [
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(91): message :             T=Time
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(91): message :         ]
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(9): message :  выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Maxi(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(9): message :         with
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(9): message :         [
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(9): message :             T=Time
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(9): message :         ]
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(115,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(112): message :  во время компиляции функции-члена класс шаблон "int Vector<Time>::Min(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(13): message :  выполняется компиляция ссылки на экземпляр шаблон функции "int Vector<Time>::Min(void)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(136,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(135): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::dobavlenie(T &)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(135): message :         with
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(135): message :         [
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(135): message :             T=Time
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\Vector.h(135): message :         ]
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(19): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::dobavlenie(T &)"
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(19): message :         with
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(19): message :         [
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(19): message :             T=Time
-C:\Users\SAVWUB\source\repos\2 sem lab 11 zadacha 3\zadacha 3 main.cpp(19): message :         ]
-  2 sem lab 11 zadacha 3.vcxproj -> C:\Users\SAVWUB\source\repos\2 sem lab 11 1 — копия\Debug\2 sem lab 11 zadacha 3.exe
+﻿  Time.cpp
+  zadacha 3 main.cpp
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(6,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(54,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(53): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::Print(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(8): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::Print(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(7): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Time>"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(62,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(60): message :  во время компиляции функции-члена класс шаблон "T Vector<T>::Srednee(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(60): message :         with
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(60): message :         [
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(60): message :             T=Time
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(60): message :         ]
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(17): message :  выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Srednee(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(17): message :         with
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(17): message :         [
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(17): message :             T=Time
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(17): message :         ]
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(94,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(91): message :  во время компиляции функции-члена класс шаблон "T Vector<T>::Maxi(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(91): message :         with
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(91): message :         [
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(91): message :             T=Time
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(91): message :         ]
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(9): message :  выполняется компиляция ссылки на экземпляр шаблон функции "T Vector<T>::Maxi(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(9): message :         with
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(9): message :         [
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(9): message :             T=Time
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(9): message :         ]
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(115,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(112): message :  во время компиляции функции-члена класс шаблон "int Vector<Time>::Min(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(13): message :  выполняется компиляция ссылки на экземпляр шаблон функции "int Vector<Time>::Min(void)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(136,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(135): message :  во время компиляции функции-члена класс шаблон "void Vector<Time>::dobavlenie(T &)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(135): message :         with
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(135): message :         [
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(135): message :             T=Time
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\Vector.h(135): message :         ]
+  Создание кода...
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(19): message :  выполняется компиляция ссылки на экземпляр шаблон функции "void Vector<Time>::dobavlenie(T &)"
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(19): message :         with
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(19): message :         [
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(19): message :             T=Time
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 3\zadacha 3 main.cpp(19): message :         ]
+  2 sem lab 11 zadacha 3.vcxproj -> C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\11 Последовательные контейнеры библиотеки STL zadacha 1\Debug\2 sem lab 11 zadacha 3.exe

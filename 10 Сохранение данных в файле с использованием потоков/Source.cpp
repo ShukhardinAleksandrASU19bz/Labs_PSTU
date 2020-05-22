@@ -114,7 +114,7 @@ system("cls");
 			break;
 
 		}
-		system("cls");
+		//system("cls");
 	} while (c != 0);
 
 }

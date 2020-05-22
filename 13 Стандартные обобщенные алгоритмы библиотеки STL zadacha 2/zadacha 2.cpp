@@ -182,6 +182,7 @@ void main()
 
 
 	//для каждого элемента вектора вызывается функция pluss
+	cout << "DOBAVLENIE" << endl;
 	for_each_pluss(v);
 	print_stack(v);
 }

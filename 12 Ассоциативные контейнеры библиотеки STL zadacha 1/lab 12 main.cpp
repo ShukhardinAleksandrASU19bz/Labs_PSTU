@@ -10,7 +10,7 @@ TMap make_map(int n)
 	double a;
 	for (int i = 0; i < n; i++)
 	{
-		cout << "?";
+		cout << ">>";
 		cin >> a;
 		//создаем пару и добавляем ее в словарь
 		m.insert(make_pair(i, a));
@@ -70,8 +70,8 @@ void main()
 	print_map(m);
 	//добавление в начало
 	sss = m.begin();
-	//m.insert(make_pair(0, Max(m)));
-	m.emplace(0, Max(m));
+	n = sss->first - 1;
+	m.emplace(n, Max(m));
 	print_map(m);
 	
 }

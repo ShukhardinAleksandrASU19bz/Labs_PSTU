@@ -26,7 +26,7 @@ int main()
 		cout << x[i] << endl;
 		y = x + 3;
 		cout << y;
-		--x;
+		--x; --x;
 		cout << x;
 		--x;
 		cout << x;

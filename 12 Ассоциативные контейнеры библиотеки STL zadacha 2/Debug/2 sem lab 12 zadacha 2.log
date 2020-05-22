@@ -1,6 +1,8 @@
-﻿  zadacha 2 main.cpp
-C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 2\zadacha 2 main.cpp(24,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 2\zadacha 2 main.cpp(33,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 2\zadacha 2 main.cpp(76,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\SAVWUB\source\repos\2 sem lab 12 zadacha 2\zadacha 2 main.cpp(81,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
-  2 sem lab 12 zadacha 2.vcxproj -> C:\Users\SAVWUB\source\repos\2 sem lab 12\Debug\2 sem lab 12 zadacha 2.exe
+﻿  Time.cpp
+  zadacha 2 main.cpp
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\12 Ассоциативные контейнеры библиотеки STL zadacha 2\zadacha 2 main.cpp(24,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\12 Ассоциативные контейнеры библиотеки STL zadacha 2\zadacha 2 main.cpp(33,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\12 Ассоциативные контейнеры библиотеки STL zadacha 2\zadacha 2 main.cpp(76,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\12 Ассоциативные контейнеры библиотеки STL zadacha 2\zadacha 2 main.cpp(81,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  2 sem lab 12 zadacha 2.vcxproj -> C:\Users\SAVWUB\Documents\GitHub\Labs_PSTU\12 Ассоциативные контейнеры библиотеки STL zadacha 1\Debug\2 sem lab 12 zadacha 2.exe

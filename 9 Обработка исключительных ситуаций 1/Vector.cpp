@@ -129,8 +129,6 @@ Vector Vector::operator-(int k)
 	return*this;
 }
 
-
-
 //операция, которая возвращает размер вектора
 int Vector::operator ()()
 {

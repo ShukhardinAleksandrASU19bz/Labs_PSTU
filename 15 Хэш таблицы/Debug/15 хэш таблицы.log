@@ -1,0 +1,8 @@
+﻿  lab15.cpp
+C:\Users\SAVWUB\source\repos\15 хэш таблицы\lab15.cpp(1,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\SAVWUB\source\repos\15 хэш таблицы\Person.h(31,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\15 хэш таблицы\HashTable.h(44,25): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\15 хэш таблицы\HashTable.h(90,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\15 хэш таблицы\HashTable.h(145,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\SAVWUB\source\repos\15 хэш таблицы\lab15.cpp(29,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  15 хэш таблицы.vcxproj -> C:\Users\SAVWUB\source\repos\15 хэш таблицы\Debug\15 хэш таблицы.exe

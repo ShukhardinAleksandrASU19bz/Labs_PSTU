@@ -84,20 +84,6 @@ void main()
 	map<int, Time> m = make_map(n);
 	print_map(m);
 	
-	/*
-	//вычисление среднего
-	Time el = srednee(m);
-	cout << "srednee=" << el << endl;
-	//добавление в конец
-	m.insert(make_pair(n, el));
-	print_map(m);
-	int max = Max(m);
-	cout << "max=" << m[max] << " nom=" << max << endl;
-	m.erase(max);
-	print_map(m);
-	int min = Min(m);
-	cout << "min=" << m[min] << " nom=" << min << endl;
-	*/
 	int min = Min(m);
 	cout << "min=" << m[min] << " nom=" << min << endl;
 	m.erase(min);
